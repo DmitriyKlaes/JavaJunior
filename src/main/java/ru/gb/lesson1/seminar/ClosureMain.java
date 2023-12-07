@@ -1,4 +1,4 @@
-package ru.gb.lesson2.seminar.lesson1.seminar;
+package ru.gb.lesson1.seminar;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
