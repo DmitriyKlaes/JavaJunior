@@ -1,4 +1,4 @@
-package ru.gb.lesson1.homework;
+package ru.gb.lesson2.seminar.lesson1.homework;
 
 public class Employee {
     private String name;
